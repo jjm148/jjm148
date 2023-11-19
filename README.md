@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jjm148
-- 👀 I’m interested in data science, sports, and text analysis
+- 👀 I’m interested in data science and civil engineering
 - 🌱 I’m currently learning data science and programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
