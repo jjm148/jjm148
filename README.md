@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jjm148
 - 👀 I’m interested in data science and civil engineering
-- 🌱 I’m currently learning data science and programming
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently a Data Analyst for the Energy and Sustainability industry
+- 💞️ I’m looking to collaborate on any innovative and interesting projects
+- 📫 You can reach me through my email julianmaranan21@gmail.com
 
 <!---
 jjm148/jjm148 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
