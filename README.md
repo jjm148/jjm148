@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jjm148
-- 👀 I’m interested in data science and civil engineering
-- 🌱 I’m currently a Data Analyst for the Energy and Sustainability industry
-- 💞️ I’m looking to collaborate on any innovative and interesting projects
+- 👀 I'm interested in applying mathematics and programming to analyze data, solve real-world problems, and drive informed decision-making.
+- 🌱 Passionate about transforming data into actionable insights to enhance efficiency and sustainability.
+- 💞️ I'm looking to collaborate on projects involving energy efficiency, building management systems, and data analysis.
 - 📫 You can reach me through my email julianmaranan21@gmail.com
 
 <!---
