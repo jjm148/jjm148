@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @jjm148
-- 👀 I'm interested in applying mathematics and programming to analyze data, solve real-world problems, and drive informed decision-making.
-- 🌱 Passionate about transforming data into actionable insights to enhance efficiency and sustainability.
-- 💞️ I'm looking to collaborate on projects involving energy efficiency, building management systems, and data analysis.
+- 💞️ I'm looking to collaborate on projects where I can apply Data Science to solve problems in Civil Engineering, Asset Management, and Energy Efficiency & Sustainability.
 - 📫 You can reach me through my email julianmaranan21@gmail.com
 
 <!---
